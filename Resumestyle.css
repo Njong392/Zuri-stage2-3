@@ -1,0 +1,58 @@
+.float{
+	border: 1px solid midnightblue;
+	width: 21.3%;
+	height: 800px;
+	float: left;
+	margin:auto ;
+	padding: 20px 20px 20px 20px;
+	background-color: midnightblue;
+	color: white;
+
+
+}
+
+.address{
+	font-weight: bold ;
+	font-family: sans-serif;
+}
+
+.personal{
+	font-size: 15px;
+	line-height: 2px;
+}
+
+.name{
+	line-height: 2px;
+}
+
+.header{
+	font-weight: bold;
+	font-size: 17px;
+	border: 1px;
+	background-color: darkslateblue;
+	padding: 10px 10px 10px 10px;
+}
+
+.float-right{
+	border: 1px solid white;
+	width: 1005px;
+	float: right;
+	margin: auto;
+	font-family: sans-serif;
+	line-height: 20px;
+
+
+
+}
+
+.pic{
+	width: 50px;
+	height: 50px;
+}
+
+.topic{
+	border-top: 1px solid #665544;
+	color: midnightblue ;
+	border-bottom: 1px solid #665544;
+	padding: 2px 2px 2px 2px ;
+}
