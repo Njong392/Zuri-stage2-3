@@ -1,7 +1,7 @@
 .float{
 	border: 1px solid midnightblue;
 	width: 21.3%;
-	height: 800px;
+	height: 900px;
 	float: left;
 	margin:auto ;
 	padding: 20px 20px 20px 20px;
@@ -35,7 +35,7 @@
 
 .float-right{
 	border: 1px solid white;
-	width: 1005px;
+	width: 70%;
 	float: right;
 	margin: auto;
 	font-family: sans-serif;
