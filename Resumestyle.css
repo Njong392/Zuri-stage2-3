@@ -1,11 +1,11 @@
 .float{
 	border: 1px solid midnightblue;
 	width: 21.3%;
-	height: 900px;
+	height: 1300px;
 	float: left;
 	margin:auto ;
 	padding: 20px 20px 20px 20px;
-	background-color: midnightblue;
+	background-color: #7D1935;
 	color: white;
 
 
@@ -29,7 +29,7 @@
 	font-weight: bold;
 	font-size: 17px;
 	border: 1px;
-	background-color: darkslateblue;
+	background-color: #420516;
 	padding: 10px 10px 10px 10px;
 }
 
@@ -51,8 +51,46 @@
 }
 
 .topic{
-	border-top: 1px solid #665544;
-	color: midnightblue ;
-	border-bottom: 1px solid #665544;
+
+	color: #420516 ;
+	border-bottom: 1px solid #420516;
 	padding: 2px 2px 2px 2px ;
 }
+
+.logo{
+	width: 30px;
+	height: 30px;
+	float: left;
+}
+
+.underline{
+	border-bottom: 3px dotted #420516;
+	border-top: 3px dotted #420516;
+	padding: 2px 2px 2px 2px;
+
+}
+
+.interest{
+	width: 60px;
+	height: 60px;
+	float: top;
+}
+
+.info{
+	font-weight: bold;
+}
+
+#comment1, #comment2, #comment3, #comment4, #comment5, #comment5 {
+	width: 21.3%;
+	height: 150px;
+	float: left;
+	margin: 1%;
+	border: 1px solid white;
+}
+
+#comment5 {
+	margin-right: 0%;
+}
+
+
+
